@@ -69,7 +69,7 @@ public class ZetTable
    */
   public ZetCard getOpenCard(int i)
   {
-    ...
+    hahahh
   }
 
   /**
